@@ -1,7 +1,7 @@
 
 ## General
-- Run command: Ctrl + Shift + P
-- Go to file: Ctrl + P
+- Run command: **Ctrl + Shift + P**
+- Go to file: **Ctrl + P**
 - Open workspace (`workbench.action.files.openLocalFolder`): **Ctrl + K, Ctrl + O**
 - Close workspace (`workbench.action.closeFolder`): **Ctrl + K, F**
 
