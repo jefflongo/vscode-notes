@@ -7,8 +7,8 @@
 
 ## Editor:
 - Focus active editor (`workbench.action.focusActiveEditorGroup`): **Ctrl + Esc [custom]**
-- Focus <direction> editor group (`workbench.action.focus<Direction>Group`): **Ctrl + K, Ctrl + Shift + Arrowkey [custom]**
-- Move editor into <direction> group (`workbench.action.moveEditorTo<Direction>Group`): **Ctrl + K, Ctrl + ArrowKey**
+- Focus <direction> editor group (`workbench.action.focus<Direction>Group`): **Ctrl + K, Ctrl + Arrowkey**
+- Move editor into <direction> group (`workbench.action.moveEditorTo<Direction>Group`): **Ctrl + K, Ctrl + Shift + ArrowKey [custom]**
 - Move editor within group left (`workbench.action.moveEditorLeftInGroup`): **Ctrl + Shift + PageUp**
 - Move editor within group right (`workbench.action.moveEditorRightInGroup`): **Ctrl + Shift + PageDown**
 - Go to next editor in group: **Ctrl + Tab**
